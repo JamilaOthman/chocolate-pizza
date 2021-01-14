@@ -1,0 +1,129 @@
+
+.header-content{
+    display: inline-block;
+}
+#g-img{
+    
+    margin-left: 950px;
+    transform: scaleY(50%);
+    transform: translateY(-100%);
+}
+#h-text h1, p{
+margin: 0mm auto;
+padding: 0mm auto;
+}
+#h-text h1{
+    font-family: Brush Script MT ;
+}
+#h-text p{
+    color: gray;
+    font-size: 10px;
+}
+#wifi-p{
+    margin-left: 20px;
+}
+hr{
+    color: grey;
+    border-style: dashed;
+    
+}
+main h1{
+    font-family: Brushstroke, fantasy;;
+    margin: 0%;
+    padding: 0%;
+}
+#date-p{
+    margin: 0%;
+    padding: 0%;
+    color: grey;
+    font-size: 10px;
+}
+.pt{
+    display: inline-block;
+   
+}
+#print{
+    float: right;
+}
+#print p{
+    color: grey;
+    font-size: 10px;
+}
+#b-p{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#m-t{
+    margin-bottom: 20px;
+}
+ul{
+    list-style: none;
+}
+#list{
+background-image: url(../images/list-bg.png);
+background-size: cover;
+margin-bottom: 20px;
+box-shadow: 0px 5px 0px 0px rgb(138, 136, 136);
+padding: 5%;
+}
+#list p{
+    font-family: Parkavenue, cursive;
+}
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8,.item9,.item10,.item11,.item12{
+    display: inline-block;
+    
+}
+#item1,#item2,#item3,#item4,#item5,#item6,#item7,#item8,#item9,#item10,#item11,#item12{
+    display: block;
+}
+.list1{
+    display: inline-block;
+    margin-left: 10%;
+}
+.comment{
+    display: inline-block;
+}
+#ph1{
+    font-size: x-large;
+    font: bold;
+    margin-bottom: 2%;
+}
+#ph2{
+    color: gray;
+}
+button{
+float: right;
+background-color: rgb(182, 73, 73);
+width: 170px;
+height: 50px;
+color: white;
+margin-right: 30%;
+margin-top: 2%;
+}
+.item8{
+    text-decoration: line-through;
+}
+.item9{
+    text-decoration: line-through;
+}
+footer{
+    text-align: center;
+}
+#repeat{
+    background-image: repeating-linear-gradient(45deg,  transparent 0 2px,gray 2px 4px);
+    height: 5px;
+    
+}
+footer p{
+    color: gray;
+}
+#foot{
+    margin-top: 20px;
+}
+#end{
+    margin-top: 20px;
+}
+#comments{
+    margin-top: 20px;
+}
